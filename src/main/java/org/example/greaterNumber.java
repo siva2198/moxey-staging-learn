@@ -17,7 +17,6 @@ public class greaterNumber {
         findgreaterno result = new findgreaterno();
         int end= result.check(a, b, c);
         System.out.println(end + " is the greater number");
-
     }
 }
 class findgreaterno{
